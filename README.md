@@ -1,8 +1,3 @@
-# Task-manager-using-react
-Here’s a **professional and detailed README.md** for your **Task Manager using React (with Vite + Tailwind)** project:
-
----
-
 # **Task Manager using React**
 
 A simple and responsive **Task Manager application** built using **React**, **Vite**, and **Tailwind CSS**. This app allows users to **add, edit, delete, and manage tasks efficiently** with a clean and modern UI.
