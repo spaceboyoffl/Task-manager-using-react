@@ -96,7 +96,3 @@ npm run preview
 ## License
 
 This project is open-source and available under the MIT License.
-
----
-
-Do you want me to **create this README.md file and give you the exact Git commands to add and push it to your GitHub repo**? Or should I also **include a section for screenshots and how to contribute**?
