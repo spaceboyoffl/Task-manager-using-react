@@ -86,6 +86,9 @@ To preview the production build:
 npm run preview
 ```
 
+## Output image
+ <img width="1920" height="1080" alt="Screenshot 2025-09-02 163116" src="https://github.com/user-attachments/assets/af3d6f03-ecb9-4cdc-917f-f51112261598" />
+
 ## Future Enhancements
 
 * Add search functionality.
